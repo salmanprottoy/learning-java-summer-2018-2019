@@ -1,0 +1,3 @@
+interface IEat{
+	void eat();
+}
